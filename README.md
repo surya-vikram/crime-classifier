@@ -10,8 +10,6 @@ The dataset includes:
 
 This analysis aims to assist in predicting crime categories and provide insights for improving public safety strategies.
 
----
-
 ## Steps Undertaken
 ### 1. Importing Libraries
 Used essential libraries for data manipulation, visualization, and machine learning, including pandas, matplotlib, seaborn, scikit-learn, XGBoost, and TensorFlow.
@@ -58,10 +56,3 @@ Trained multiple machine learning models, evaluated their performance, and selec
 
 ### 8. Submission
 Prepared the final predictions and submitted them to Kaggle for evaluation.
-
----
-
-## Results
-- **Best Model**: [Insert your best-performing model here, e.g., XGBoostClassifier]
-- **Key Metrics**: [Mention relevant metrics like accuracy, F1-score, or ROC-AUC]
-- **Ensemble Performance**: Highlight how ensemble methods improved performance over standalone models.
